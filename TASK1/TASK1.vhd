@@ -28,7 +28,7 @@ architecture behav of TASK1 is
                 buf <= "111111";
                 cnt <= 0;
                 cnt_logic <= "000";
-                cnt2 <= "00";
+                cnt2 <= "01";
                 ptr <= "000";
                 err <= '0';
                 disp <= '1';
